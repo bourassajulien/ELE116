@@ -10,6 +10,8 @@ public class Ligne extends Forme {
 		y1 = coords[1];
 		x2 = coords[2];
 		y2 = coords[3];
+// tests
+
 	}
 	
 	public void draw(Graphics2D g2) {
